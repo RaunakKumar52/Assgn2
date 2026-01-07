@@ -6,3 +6,5 @@ I’m a first year student and honestly this assignment was a bit intimidating a
 The assignment covered core topics in data analysis and machine learning, starting with **data loading and exploration using pandas**, along with **histograms, box plots, and correlation heatmaps** to understand distributions, outliers, and relationships between features. It also involved **geographical visualization** using latitude and longitude to study housing price patterns.
 
 Further, the assignment introduced **feature scaling**, **PCA**, and building a **multiple linear regression model using a scikit-learn pipeline**. We evaluated the model using **MSE, MAE, R², and adjusted R²**, and used **predicted vs actual** and **residual plots** to understand model performance and limitations.
+
+I could not use scikit learn properly due to some laptop issues but the code is accurate to the best of my knowledge. 
