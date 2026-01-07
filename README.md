@@ -1,4 +1,4 @@
-# Assgn2
+# Midterm Report
 Assignment 2 : WIDS 
 I’m a first year student and honestly this assignment was a bit intimidating at the start. I had never worked with a real dataset like this before, so things like understanding the columns, plotting graphs, and even reading correlation matrices felt overwhelming. I relied a lot on basic resources like **GeeksforGeeks** to understand Python, pandas functions, and machine learning concepts step by step. I also watched the **StatQuest playlist** to make sense of ideas like linear regression, PCA. My mentor provided all the necessary tools to figure it out. 
 
